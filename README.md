@@ -85,7 +85,7 @@ TAVILY_API_KEY=your_tavily_api_key
 ### 4. Run the application
 
 ```bash
-streamlit run bwa_frontend.py
+streamlit run frontend.py
 ```
 
 ### 5. Open the application
